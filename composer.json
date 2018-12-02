@@ -6,6 +6,7 @@
         "admin",
         "panel"
     ],
+    "license": "MIT",
     "homepage": "https://github.com/afaneh262/iwan",
     "support": {
         "issues": "https://github.com/afaneh262/iwan/issues",
